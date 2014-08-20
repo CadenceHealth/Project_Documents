@@ -1,0 +1,19 @@
+2
+2.2
+
+Product Functions
+
+Core Functions
+-Allow user to take image of meal
+-Tag photo with what is in it
+-Give orac rating for tagged meal
+
+
+Secondary Functions
+-Save photo
+-Provide Health tips
+-Generate list of things to buy for saved meals
+-Allow sharing of meal in some way
+-Rate meal according to personal preference
+
+Dataflow diagram here for high level overview
