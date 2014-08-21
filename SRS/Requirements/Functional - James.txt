@@ -1,0 +1,63 @@
+
+--------------------------------------------------------------------
+1.3.1 Functional Requirements
+--------------------------------------------------------------------
+<Insert Application Name> v1.0 Function Requirements
+
+- R1.1: The Application shall allow a user to be able to capture images and tag images.
+	Purpose: To allow for a database of meals aquired by the user.
+	Test: 	There must be at least 5 different test cases per user. 
+		These users will be spread out on various devices. 
+		%100 of images must be able to be captured, tagged per user.
+
+- R1.2: The Application shall recognise either a common tag, or new tag by a user.
+	Purpose: To allow for auto filling, and pregenerate information about the meal.
+	Test:	There must be at least 200 different common test cases, 10 unique cases.
+		Of which all unique cases must be added to the Applications online database. 
+		All common cases must be recognised by the Application.
+
+- R1.3: The Applicaton shall allow a user to add the loation of the meal.
+	Purpose: To provide a location for the captured meals for future revisitation by the user, or other users.
+	Test:	There must be at least 5 different test cases per user. 
+		These users will be spread out on various devices. 
+		%100 of images must be able to have the correct location added to its details.
+
+- R1.1: The application shall be able to access Google's Maps and geolocation function
+	Purpose: To provide an accurate location for capture meals that can be accessed through Google Maps.
+	Test:	Thre must be at least 5 different test cases per user.
+		These users will be spread out on various devices.
+		100% of images must be able to have correct geolocation added to its details.
+	Assumption: if the internet is not accessible then geolocation will not work.
+		Therefore it is assumed that internet is on for this functionalily to work correctly.
+
+- R1.1: The Application shall allow a user to edit which ingredients are in the meal after identifing the meal.
+	Purpose: To generate a more accurate list of ingredients to generate a more accurate ORAC rating.
+	Test:
+
+- R1.1:
+	Purpose:
+	Test:
+
+- R1.1:
+	Purpose:
+	Test:
+
+- R1.1:
+	Purpose:
+	Test:
+
+- R1.1:
+	Purpose:
+	Test:
+
+- R1.1:
+	Purpose:
+	Test:
+
+- R1.1:
+	Purpose:
+	Test:
+
+- R1.1:
+	Purpose:
+	Test:
