@@ -1,0 +1,4 @@
+-Developing an efficient and accurate algorithm for converting ORAC ratings into a score/10 
+may prove difficult, as there is no theoretical limit for how high an ORAC score can be
+-Photo recognition of the food is not possible given our resources and time frame
+-
