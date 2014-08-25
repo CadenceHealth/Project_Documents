@@ -1,0 +1,66 @@
+5. Schedule
+This section outlines each of the tasks that are to be completed for the application to be finished. The schedule also outlines the approximate start and end dates of each task, and also the team members that are responsible for each task.
+
+5.1 Gantt Chart
+
+
+
+5.2 Work Breakdown
+
+Deliverable 1: Feasibility Study (Monday 18/08/14)
+
+Deliverable 2: Project Plan and Requirements Document (Monday 08/09/14)
+
+Deliverable 3: Updated Project Plan, Updated Requirements Document, Design, Test Cases, Prototype (Tuesday 07/10/14)
+
+Deliverable 4: Updated Project Plan, Updated Requirements Document, Updated Design, Updated Test Cases, Updated Prototype (Friday 31/10/14)
+
+Deliverable 5: Project Presentation and Software Demonstration, RTM, User Manual and Final Report (Week 13 or 14 Time and Location TBA)
+
+Final Deliverable: Delivery of Product to Sponsor (Week 13 or 14)
+
+5.3 Cost and Time
+
+
+5.4 Total Work Hours and Wages
+
+
+
+Organisation
+
+Group Roles and Responsibilities
+
+Project Sponsor
+	^
+Project Leader
+	^
+Team Member
+
+
+Project Sponsor - Highest level of authority over the project
+Project Leader - Brings all components together
+Team Member - General execution of tasks
+Developer - Programming application
+Tester - Testing application functionality
+
+
+
+
+
+
+
+6. Tracking
+
+
+6.1 Version Control
+
+
+6.2 Tracking Progress
+
+
+6.3 Communication
+
+
+6.4 Quality Control
+
+
