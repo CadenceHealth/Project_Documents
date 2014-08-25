@@ -1,7 +1,13 @@
 2
 2.1
 Product Perspective
+<Insert application name here> is a stand alone application and is the first instance of it.
+The client wants to expand the business areas and move towards social media as a tool to 
+promote health and wellbeing.
+Some modifications to the clients current systems may be needed to host the application,but 
+minimal changes should be neccissary.
+
 New project
 New technology is needed to keep up with market
 Expanding into newer areas
-Grow company and expand
+Grow company and expand 

@@ -5,9 +5,21 @@
 
 Product Functions
 
-Core Functions
+The main functions of<Insert Application Name> is to increase the healthiness of people eating patterns, by using the ORAC rating method.
+It will facilitate this by allowing users to: take images of their food, allow a rating to be generated for their food, provide health tips
+and allow for the sharing of thier meals on social media.
 
-2.2.1: The application shall allow a user to take images of their 
+<Insert Application Name> will generate an ORAC rating, based on user entry of the ingrediants in their meal and then by calculating the rating,
+it will also allow for
+
+-location where meal was bought
+-sharing of images with rating on social media
+-generate a shopping list of basic ingredients 
+-provide health tips on better eating ideas
+
+
+2.2.1: The application shall allow a user to take images of their food
+
 -Allow user to take image of meal
 -Tag photo with what is in it
 -Give orac rating for tagged meal
