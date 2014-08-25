@@ -23,10 +23,10 @@ it will also allow for
 -Allow user to take image of meal
 -Tag photo with what is in it
 -Give orac rating for tagged meal
--Save photo
+
 
 Secondary Functions
-
+-Save photo
 -Provide Health tips
 -Generate list of things to buy for saved meals
 -Allow sharing of meal in some way
