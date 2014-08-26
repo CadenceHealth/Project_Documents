@@ -22,7 +22,7 @@
 		These users will be spread out on various devices. 
 		%100 of images must be able to have the correct location added to its details.
 
-- R1.1: The application shall be able to access Google's Maps and geolocation function
+- R1.14: The application shall be able to access Google's Maps and geolocation function
 	Purpose: To provide an accurate location for capture meals that can be accessed through Google Maps.
 	Test:	Thre must be at least 5 different test cases per user.
 		These users will be spread out on various devices.
@@ -30,7 +30,7 @@
 	Assumption: if the internet is not accessible then geolocation will not work.
 		Therefore it is assumed that internet is on for this functionalily to work correctly.
 
-- R1.1: The Application shall allow a user to edit which ingredients are in the meal after identifing the meal.
+- R1.1: The Application shall allow a user to edit an ingredients listin relation to the meal after identifing the meal.
 	Purpose: To generate a more accurate list of ingredients to generate a more accurate ORAC rating.
 	Test:
 
