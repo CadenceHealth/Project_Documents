@@ -1,13 +1,11 @@
 2
 2.1
 Product Perspective
-<Insert application name here> is a stand alone application and is the first instance of it.
-The client wants to expand the business areas and move towards social media as a tool to 
-promote health and wellbeing.
-Some modifications to the clients current systems may be needed to host the application,but 
-minimal changes should be neccissary.
+<Insert application name here> is a stand alone application that will run on an Android smart phone that will allow users to better track and manage their wellbeing. 
+It will allow for users to simply and easily take a photo of their meal and tag ingerdiants, from these tags the application shal generate and ORAC rating, that the user 
+can then keep track of. The user will also be able to enter the location, their personal rating,  and the type of food. Using this data the application will sort and rank users 
+meals. 
 
-New project
-New technology is needed to keep up with market
-Expanding into newer areas
-Grow company and expand 
+The user shal be able to sort according to the data entered and search for similar umeals from other users. They shal also be able to share the image with rating to their friends,
+through social media.
+This will allow them to better manage and keep track of what they are eating, and the "healthfullness" of their meals.
