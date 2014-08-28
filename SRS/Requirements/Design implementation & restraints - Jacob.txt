@@ -1,4 +1,4 @@
--Developing an efficient and accurate algorithm for converting ORAC ratings into a score/10 
-may prove difficult, as there is no theoretical limit for how high an ORAC score can be
--Photo recognition of the food is not possible given our resources and time frame
--
+-The application must be delivered to the client no later than the 4th December 2014
+-The application must be compatible with Android devices running Android 4.1.1 and above
+-The application must be compatible with a variety of screen sizes, and scale all elements accordingly.
+-The application colour scheme must match that of the Cadence health website

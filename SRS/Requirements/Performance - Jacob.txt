@@ -1,0 +1,3 @@
+-The application must load to the home page in less than 4 seconds
+-The application does not freeze, crash, or function in an abnormal way on any targeted device
+-
