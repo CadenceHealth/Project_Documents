@@ -1,0 +1,6 @@
+There are two main types of users in the <application>
+
+Type 1 - Administrators: Administrators are responsible for maintaining the backend of the application. The main focus will be on moderating the types of photos that are being shared using the application and whether they are relevant types of food and/or drink. 
+
+
+Type 2 - End Users: Anyone that purchases the application is considered an end user. All purpose and functionality of the application is focused towards the end users experience.
