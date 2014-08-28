@@ -7,6 +7,48 @@
 1.3.2.1 Performance Requirements
 --------------------------------------------------------------------
 
-- R1.1: The Application may sort 
+- R1.1: The Application shall improve user health
 	Purpose: 
-	Test: 	
+	Test: 
+
+- R1.1: The Application shall be available to users 24/7 with 100% reliability
+	Purpose: This is to ensure that all users will have access to the applications functionality at all times
+
+- R1.1: The Application shall be available to users without requirement to install additional software.
+	Purpose: This is to ensure that all users may easily access the Application.
+
+- R1.1: The Application shall provide accurate ORAC ratings to users
+	Purpose: 
+	Test:
+
+- R1.1: The Application shall provide accurate ratings to users
+	Purpose: 
+	Test:
+
+- R1.1: The Application shall retain user anonymity
+	Purpose: 
+	Test:
+
+- R1.1: The Application shall record all stored meals for other users use.
+	Purpose: 
+	Test:
+
+- R1.1: The Application shall update its database to further identify information being input by the user
+	Purpose: 
+	Test:	
+
+- R1.1: The Application shall allow for future functionality to be added.
+	Purpose: 
+	Test:
+
+- R1.1: The Application shall
+	Purpose: 
+	Test:
+
+- R1.1: The Application shall 
+	Purpose: 
+	Test:
+
+- R1.1: The Application shall 
+	Purpose: 
+	Test:
