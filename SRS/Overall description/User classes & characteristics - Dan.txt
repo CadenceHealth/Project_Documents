@@ -1,6 +1,7 @@
-There are two main types of users in the <application>
+There are three main types of users in the <application>
 
 Type 1 - Administrators: Administrators are responsible for maintaining the backend of the application. The main focus will be on moderating the types of photos that are being shared using the application and whether they are relevant types of food and/or drink. 
 
+Type 2 - Users Interested in Improving Their Health: Anyone that purchases the application and is interested in improving their health. The majority of functionality within the application is focused towards improving the health of end users.
 
-Type 2 - End Users: Anyone that purchases the application is considered an end user. All purpose and functionality of the application is focused towards the end users experience.
+Type 3 - Health Industry Representatives: Health industry representatives such as personal trainers. This user type uses the application to benefit other non users.
