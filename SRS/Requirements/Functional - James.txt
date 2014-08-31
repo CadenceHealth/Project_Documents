@@ -38,7 +38,7 @@
 		100% of ingredient list must be editable.
 	Assumption: There is a general database that handles the pairing of meals and ingredient lists.	 
 	
-- R1.6: The Application shall allow an accurate ORAC rating to be generated based upon the meal and/or ingredients.
+- R1.6: The Application shall generate an ORAC rating based upon a meal and/or ingredients.
 	Purpose: To give a appropriate and accurate ORAC rating along a certain scale to provide helpful information to the user.
 	Test:	There must be at least 200 test cases.
 		There must be at least 20 duplicate cases.
