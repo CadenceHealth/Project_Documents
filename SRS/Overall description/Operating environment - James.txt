@@ -1,4 +1,4 @@
-The Application must be supportted by Android and IOS. The software for the Application must be written in a language that allows for it to be compatible for possible web browser use.
+The Application must be supported by Android and IOS. The software for the Application must be written in a language that allows for it to be compatible for possible web browser use.
 The Application must be downloadable by either Android's 'Play Store', or Apples 'App Store' at all times. A direct link through the Clients website will be supplied for easy access to the downloadable Application.
 This allows for all software and harware platforms to access the system without compatibility issues and will also prevent vendor lock in and support future upgrades.
 Future implementation for an application based interface may also be considered, with the possibility of running on Windows or OSX computers.

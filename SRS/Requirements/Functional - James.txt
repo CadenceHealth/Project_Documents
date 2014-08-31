@@ -44,31 +44,48 @@
 		There must be at least 20 duplicate cases.
 		There must be at least 100 similar test cases.
 
-- R1.7: The Application shall allow the user to search/sort through a database of their own meals.
-	Purpose: The user must be easily able access earlier meals for future use, create meal plans, and find meals based on sort requirements easily.
+- R1.7: The Application shall allow the user to search through a database of their own meals.
+	Purpose: The user must be easily able access earlier meals for future use.
 	Test: 	There must be at least 20 different test cases per user.
 		These users will be spread out on various devices.
 		100% of meals must be accessible through the inbuilt filesystem.
 
-- R1.8: The Application shall allow the user to search/sort through a database of all meals that are within the online database
+- R1.8: The Application shall allow the user to sort through meals based on the users geolocation.
+	Purpose: To provide the user with meals that are close to their current location.
+
+- R1.9: The Application shall allow the user to sort through meals based on the ORAC rating.
+	Purpose: To provide the user with meals that are high on the ORAC rating for healthy eating.
+
+- R1.10: The Application shall allow the user to sort through meals based on a given location.
+	Purpose: To provide the user with meals that are close to a given location.
+	
+- R1.11: The Application shall allow the user to sort through meals based on the tag name.
+	Purpose: To provide the user with meals that are of the same variety as their input tag.
+	
+
+- R1.12: The Application shall allow the user to search/sort through a database of all meals that are within the online database
 	Purpose: The user must easily be able to access all meals shared across other users for future use, to create meal plans, and find meals base on sort requriements easily.
 	Test: 	There must be at least 5 users.
 		There must be at least 100 meals that vary according to ORAC rating, rating, tags, and location.
 		100% of meals must be viewable and accessable through all users.
 	Assumption: There is an online database that managers the uploading and downloading of meals either tagged by users of the application of added by the moderator of the application.
 
-- R1.9: The Application shall allow the user to group together meals and export either individual or groups of ingredient lists for meals.
+- R1.13: The Application shall allow the user to group together meals and export either individual or groups of ingredient lists for meals.
 	Purpose: The user will be able to use the list to shop for ingredients to maintain a healthy diet based on the Applications functions.
 	Test:	There must be at least 5 group test cases.
 		There must be at least 20 individual test cases.
 		These must be exported into each format.
 
-- R1.10: The Application shall allow the user to edit/remove meals/groups of meals from their application.
+- R1.14: The Application shall allow the user to edit/remove meals/groups of meals from their application.
 	Purpose: To give control of the file system to the user.	
 	Test:	There must be at least 5 group test cases of editing.
 		There must be at least 5 group test cases of removing.
 		There must be at least 20 individual test cases of editing.
 		There must be at least 20 individual test cases of removing.
 		100% must show either the edit of removal was compeleted correctly.
+		
+- R1.15: The Application shall provide healthy tips to the user.
+	Purpose: To provide information to the user to better maintain a healthy lifestyle.	
+	
 		
 		
