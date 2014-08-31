@@ -2,3 +2,12 @@
 -The application must be compatible with Android devices running Android 4.1.1 and above
 -The application must be compatible with a variety of screen sizes, and scale all elements accordingly.
 -The application colour scheme must match that of the Cadence health website
+-The application must follow the Android Design guidelines and conform to common UI patterns found at 
+http://developer.android.com/distribute/essentials/quality/core.html. This includes
+	-The application does not redefine the expected function of a system icon (such as the "home" or "back " buttons)
+	-The application does not misuse Android UI patterns, that would make a standard user become confused. 
+-The application must function normally when installed on an SD card
+-The application must request the absolute minimum permissions that it needs to operate normally. 
+-The application should support both landscape and portrait orientations
+-The application must adhere to the terms of the Google play developer content policy found at https://play.google.com/about/developer-content-policy.html
+

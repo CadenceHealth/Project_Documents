@@ -1,3 +1,7 @@
 -The application must load to the home page in less than 4 seconds
 -The application does not freeze, crash, or function in an abnormal way on any targeted device
--
+-The application displays all UI elements without noticable blurring, or any other forms of distortion.
+-The content that this app delivers must be accessible from all tageted devices (this includes devices with larger screens)
+-The content of this app must not contain any cut-off words or letters
+-The application must be responsive to all button presses within 1 second of being pressed. (with the exception of rating generation)
+-The generation of an ORAC score must be completed in a reasonable amount of time (TBC)
