@@ -1,7 +1,20 @@
--The application must load to the home page in less than 4 seconds
--The application does not freeze, crash, or function in an abnormal way on any targeted device
--The application displays all UI elements without noticable blurring, or any other forms of distortion.
--The content that this app delivers must be accessible from all tageted devices (this includes devices with larger screens)
--The content of this app must not contain any cut-off words or letters
--The application must be responsive to all button presses within 1 second of being pressed. (with the exception of rating generation)
--The generation of an ORAC score must be completed in a reasonable amount of time (TBC)
+--------------------------------------------------------------------
+1.3.3 Performance Requirements
+--------------------------------------------------------------------
+<Insert Application Name> v1.0 Performance Requirements
+
+-R1.1: The application must load to the home page in less than 4 seconds
+	Purpose: The user will not have to endure slow load times
+
+-R1.2: The application does not freeze, crash, or function in an abnormal way on any targeted device
+	Purpose: The user must have a good experience with the application. 
+
+-R1.3: The application displays all UI elements without noticable blurring, or any other forms of distortion.
+
+-R1.4: The content that this app delivers must be accessible from all tageted devices (this includes devices with larger screens)
+
+-R1.5: The content of this app must not contain any cut-off words or letters
+
+-R1.6: The application must be responsive to all button presses within 1 second of being pressed. (with the exception of rating generation)
+
+-R1.7: The generation of an ORAC score must be completed in a reasonable amount of time (TBC)
