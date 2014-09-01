@@ -4,17 +4,34 @@
 <Insert Application Name> v1.0 Performance Requirements
 
 -R1.1: The application must load to the home page in less than 4 seconds
-	Purpose: The user will not have to endure slow load times
+	Purpose: To minimise User waiting times
+	Test: There must be at least 5 test cases per user. 
+	100% of test cases must load in under 4 seconds.
+	80% of test cases must load in between 2-3 seconds.
 
 -R1.2: The application does not freeze, crash, or function in an abnormal way on any targeted device
-	Purpose: The user must have a good experience with the application. 
+	Purpose: To give the user a positive experience with the application
+	98% of devices must not crash or function in an abnormal way. 
 
 -R1.3: The application displays all UI elements without noticable blurring, or any other forms of distortion.
+	Purpose: To leave a good visual impression on the User. 
+	98% of the UI must not have blurring or other noticable distortions. 
 
--R1.4: The content that this app delivers must be accessible from all tageted devices (this includes devices with larger screens)
+-R1.4: The content that this app delivers must be displayed proportionatly on all tageted devices (this includes tablets)
+	Purpose: To ensure that all users can utilise the functionality of this application, regardless of the Android device they are using
+	98% of devices must be able to access the app.
 
--R1.5: The content of this app must not contain any cut-off words or letters
+-R1.5: The application must be responsive to all button presses within 1 second of being pressed.
+	Purpose: To give the user a positive experience using the application
 
--R1.6: The application must be responsive to all button presses within 1 second of being pressed. (with the exception of rating generation)
+-R1.6 The generation of an ORAC score should not exceed 4 seconds.
+	Purpose: To deliver information promptly
 
--R1.7: The generation of an ORAC score must be completed in a reasonable amount of time (TBC)
+-R1.7 Search results should load within 2 seconds of typing
+	Purpose: To promptly assist with the users search.
+
+-R1.8 Camera should launch within 2 seconds of initialising 
+	Purpose: To allow user access to camera & tagging without delay
+
+-R1.9 Generation and exportation of shopping list should take no longer than 3 seconds each
+	Purpose: To allow user quick access to information. 
