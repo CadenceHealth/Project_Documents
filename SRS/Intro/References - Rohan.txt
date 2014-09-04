@@ -1,1 +1,2 @@
 http://developer.android.com/distribute/essentials/quality/core.html
+https://developer.android.com/about/dashboards/index.html?utm_source=ausdroid.net
