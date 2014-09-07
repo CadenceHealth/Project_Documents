@@ -1,0 +1,13 @@
+The purpose of this project plan is to provide a detailed document of the project expectations. It provides an overview of the project to help identify the objectives, analyse parameters, provide task allocation, and develop schedules. 
+
+The scope of this report is to present a detailed project plan of the design and development of the healthy food application for Cadence Health. The task is to provide the client an application for the smartphone market. Currently dieting has been used by many people as a means to lose weight. Research has shown that dieting yields negative results on your overall health in the long run. As a result the goal Cadence Health is to start a shift to move away from dieting and calorie counting, to move towards healthier eating. 
+
+The project is being undertaken to raise awareness of this issue and promote the shift to eating a healthy lifestyle. This will be achieved over the use of functions and tools available through the application. This allows users to view their meals, ingredients and view an ORAC rating to help maintain a healthy lifestyle.
+
+In order for project to be successful, the project plan will cover five categories:
+
+-	Risk Planning and Management:  identifying the risk and providing a risk rating through the use of a risk matrix. Providing a thorough planning of risk with the aim to mitigate. 
+-	Project Schedule:  Outlines the tasks that need to be completed, which resources will be used to complete the project and the timeframes in which the tasks need to done. 
+-	Project Resource: Detailing of the available resources for the project, this includes the people, hardware and software
+-	Organisation Roles: Detailing the allocated roles and responsibilities of the stakeholders of the project. 
+-	Project Tracking: This includes how the project will be managed and viewed in regards to ensuring and maintaining a quality application. 
